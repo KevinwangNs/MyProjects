@@ -38,10 +38,20 @@ pattern generator system that can generate check patterns for LCD cell.
 
 ![V200](https://github.com/KevinwangNs/MyProjects/blob/main/Image/V200.jpg)
 
-GUI
+GUI for waveform edit
 
 ![V200_GUI_1](https://github.com/KevinwangNs/MyProjects/blob/main/Image/V200_GUI_1.png)
 ![V200_GUI_2](https://github.com/KevinwangNs/MyProjects/blob/main/Image/V200_GUI_2.png)
+
+
+**AGING Signal board**
+
+![Aging](https://github.com/KevinwangNs/MyProjects/blob/main/Image/Aging.JPG)
+
+
+**TTL VIDEO Signal board**
+
+![DV_TTL](https://github.com/KevinwangNs/MyProjects/blob/main/Image/DV_TTL.JPG)
 
 **MIPI Signal board**
 MIPI Signal board for Reliability test use.
